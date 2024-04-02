@@ -1,0 +1,1 @@
+# Paradgmas-de-Programa-o
