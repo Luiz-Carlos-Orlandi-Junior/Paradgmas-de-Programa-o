@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Trab_T2.csproj",
+      "projectUniqueName": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Trab_T2.csproj",
       "projectName": "Trab_T2",
-      "projectPath": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Trab_T2.csproj",
+      "projectPath": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Trab_T2.csproj",
       "packagesPath": "C:\\Users\\Sr.Orlandi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\obj\\",
+      "outputPath": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sr.Orlandi\\AppData\\Roaming\\NuGet\\NuGet.Config",

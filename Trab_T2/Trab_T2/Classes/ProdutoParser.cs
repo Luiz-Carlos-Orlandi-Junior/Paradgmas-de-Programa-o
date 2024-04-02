@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Trab_T2.Classes
 {
@@ -14,7 +16,7 @@ namespace Trab_T2.Classes
             codigo = 0,
             descricao = 1,
             categoria = 2,
-            preco = 3,
+            Preco = 3,
             estoque = 4,
             qtdVendida = 5,
         }
@@ -37,7 +39,7 @@ namespace Trab_T2.Classes
 
                     Categoria = linha.Split(";")[(int)Header.categoria],
 
-                    Preco = Convert.ToDouble(linha.Split(";")[(int)Header.preco]),
+                    Preco = Convert.ToDouble(linha.Split(";")[(int)Header.Preco], CultureInfo.InvariantCulture),
 
                     Estoque = Convert.ToInt32(linha.Split(";")[(int)Header.estoque]),
 

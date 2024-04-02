@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\",
+  "WorkspaceRootPath": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|c:\\users\\sr.orlandi\\desktop\\trab_t2\\trab_t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|c:\\users\\sr.orlandi\\documents\\github\\paradgmas-de-programa-o\\trab_t2\\trab_t2\\classes\\produtoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|solutionrelative:classes\\produtoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|c:\\users\\sr.orlandi\\documents\\github\\paradgmas-de-programa-o\\trab_t2\\trab_t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|c:\\users\\sr.orlandi\\desktop\\trab_t2\\trab_t2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|c:\\users\\sr.orlandi\\documents\\github\\paradgmas-de-programa-o\\trab_t2\\trab_t2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|solutionrelative:classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|c:\\users\\sr.orlandi\\desktop\\trab_t2\\trab_t2\\classes\\produtoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4B9FE54-EDFB-44F1-A501-1FD224EF091D}|Trab_T2.csproj|solutionrelative:classes\\produtoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Classes\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Classes\\Produto.cs",
               "RelativeDocumentMoniker": "Classes\\Produto.cs",
-              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Classes\\Produto.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Classes\\Produto.cs",
               "RelativeToolTip": "Classes\\Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -38,25 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProdutoParser.cs",
-              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Classes\\ProdutoParser.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Classes\\ProdutoParser.cs",
               "RelativeDocumentMoniker": "Classes\\ProdutoParser.cs",
-              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Classes\\ProdutoParser.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Classes\\ProdutoParser.cs",
               "RelativeToolTip": "Classes\\ProdutoParser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T20:44:51.883Z"
+              "WhenOpened": "2024-04-02T20:44:51.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trab_T2\\Trab_T2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Documents\\GitHub\\Paradgmas-de-Programa-o\\Trab_T2\\Trab_T2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAYAAAANAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAG8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T20:41:20.664Z",
               "EditorCaption": ""
