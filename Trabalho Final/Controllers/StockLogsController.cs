@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using ApiWebDB.DTO;
+using Trabalho_Final.DTO;
 using TrabalhoFinal.Services;
 
-namespace ApiWebDB.Controllers
+namespace Trabalho_Final.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
