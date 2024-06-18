@@ -19,8 +19,8 @@ namespace APIWebDB.Controllers
         public ClientesController(ClienteService service, 
             ILogger<ClientesController> logger)
         {
-            _service = service;
             _logger = logger;
+            _service = service;
         }
 
         [HttpPost()]

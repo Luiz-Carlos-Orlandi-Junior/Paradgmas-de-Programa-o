@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Api.Database.Models
+﻿namespace Api.Database.Models
 {
     public class Produto
     {
@@ -13,6 +7,6 @@ namespace Api.Database.Models
         public string Categoria { get; set; }
         public double Preco { get; set; }
         public int Estoque { get; set; }
-        public int QtdVendida { get; set;}
+        public int QtdVendida { get; set; }
     }
 }

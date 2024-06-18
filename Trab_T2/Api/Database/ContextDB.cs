@@ -10,10 +10,9 @@ namespace Api.Database
         private readonly string _Dataset;
         private readonly List<Produto> _produtos;
 
-
         public ContextDB()
         {
-            _Dataset = File.ReadAllText("..\\..\\..\\Dataset.csv");
+            _Dataset = File.ReadAllText("Dataset.csv");
             _produtos = ProdutoParser.ConverterLista(_Dataset);
         }
 

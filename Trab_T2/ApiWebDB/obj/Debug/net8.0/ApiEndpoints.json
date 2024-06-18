@@ -27,6 +27,26 @@
   },
   {
     "ContainingType": "APIWebDB.Controllers.ClientesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Clientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ApiWebDB.BaseDados.Models.TbCliente",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIWebDB.Controllers.ClientesController",
     "Method": "Update",
     "RelativePath": "api/Clientes/{id}",
     "HttpMethod": "PUT",
@@ -83,22 +103,22 @@
     ]
   },
   {
-    "ContainingType": "ApiWebDB.Controllers.EnderecoController",
-    "Method": "Insert",
-    "RelativePath": "api/Endereco",
-    "HttpMethod": "POST",
+    "ContainingType": "APIWebDB.Controllers.ClientesController",
+    "Method": "GetById",
+    "RelativePath": "api/Clientes/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "enderecoDTO",
-        "Type": "ApiWebDB.Services.DTOs.EnderecoDTO",
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "ApiWebDB.BaseDados.Models.TbEndereco",
+        "Type": "ApiWebDB.BaseDados.Models.TbCliente",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -110,17 +130,12 @@
   },
   {
     "ContainingType": "ApiWebDB.Controllers.EnderecoController",
-    "Method": "Update",
-    "RelativePath": "api/Endereco/{id}",
-    "HttpMethod": "PATCH",
+    "Method": "Insert",
+    "RelativePath": "api/Endereco",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
       {
         "Name": "enderecoDTO",
         "Type": "ApiWebDB.Services.DTOs.EnderecoDTO",

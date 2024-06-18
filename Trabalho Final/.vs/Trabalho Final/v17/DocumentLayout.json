@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\validate\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\validate\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\parser\\productparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\parser\\productparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\basedados\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:basedados\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\exception\\invalidentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\exception\\invalidentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\stocklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\stocklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\dtos\\promotiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\dtos\\promotiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\dtos\\stocklogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\dtos\\stocklogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\exception\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\exception\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\parser\\promotionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\parser\\promotionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\parser\\saleparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\parser\\saleparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\parser\\stocklogparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\parser\\stocklogparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\validate\\stocklogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\validate\\stocklogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\validate\\salevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\validate\\salevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\validate\\promotionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\validate\\promotionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\services\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:services\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\basedados\\tfdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:basedados\\tfdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\basedados\\models\\tbstocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:basedados\\models\\tbstocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\basedados\\models\\tbsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:basedados\\models\\tbsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\basedados\\models\\tbpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:basedados\\models\\tbpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|c:\\users\\sr.orlandi\\desktop\\trabalho final\\controllers\\stocklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8BB5E-7C34-4AE0-ABB0-289300517894}|Trabalho Final.csproj|solutionrelative:controllers\\stocklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:51:33.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Validate\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\ProductValidator.cs",
+              "RelativeToolTip": "Services\\Validate\\ProductValidator.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:10.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockLogService.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\StockLogService.cs",
+              "RelativeDocumentMoniker": "Services\\StockLogService.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\StockLogService.cs",
+              "RelativeToolTip": "Services\\StockLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:07:52.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "Services\\SaleService.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\SaleService.cs",
+              "RelativeToolTip": "Services\\SaleService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:58:48.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidEntityException.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Exception\\InvalidEntityException.cs",
+              "RelativeDocumentMoniker": "Services\\Exception\\InvalidEntityException.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Exception\\InvalidEntityException.cs",
+              "RelativeToolTip": "Services\\Exception\\InvalidEntityException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductParser.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\ProductParser.cs",
+              "RelativeDocumentMoniker": "Services\\Parser\\ProductParser.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\ProductParser.cs",
+              "RelativeToolTip": "Services\\Parser\\ProductParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:44.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:43:27.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TbProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbProduct.cs",
+              "RelativeDocumentMoniker": "BaseDados\\Models\\TbProduct.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbProduct.cs",
+              "RelativeToolTip": "BaseDados\\Models\\TbProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv3EAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:50:31.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PromotionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\PromotionDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\PromotionDTO.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\PromotionDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\PromotionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:51:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\SaleDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\SaleDTO.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\SaleDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\SaleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:51:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:58:21.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StockLogDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\StockLogDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\StockLogDTO.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\DTOs\\StockLogDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\StockLogDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:08:14.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Services\\Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "Services\\Exception\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Exception\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Services\\Exception\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Exception\\BadRequestException.cs",
+              "RelativeToolTip": "Services\\Exception\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:03.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PromotionParser.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\PromotionParser.cs",
+              "RelativeDocumentMoniker": "Services\\Parser\\PromotionParser.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\PromotionParser.cs",
+              "RelativeToolTip": "Services\\Parser\\PromotionParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaleParser.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\SaleParser.cs",
+              "RelativeDocumentMoniker": "Services\\Parser\\SaleParser.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\SaleParser.cs",
+              "RelativeToolTip": "Services\\Parser\\SaleParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:56.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockLogParser.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\StockLogParser.cs",
+              "RelativeDocumentMoniker": "Services\\Parser\\StockLogParser.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Parser\\StockLogParser.cs",
+              "RelativeToolTip": "Services\\Parser\\StockLogParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:57:07.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockLogValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\StockLogValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Validate\\StockLogValidator.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\StockLogValidator.cs",
+              "RelativeToolTip": "Services\\Validate\\StockLogValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:29.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\SaleValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Validate\\SaleValidator.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\SaleValidator.cs",
+              "RelativeToolTip": "Services\\Validate\\SaleValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:24.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PromotionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\PromotionValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Validate\\PromotionValidator.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\Validate\\PromotionValidator.cs",
+              "RelativeToolTip": "Services\\Validate\\PromotionValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:18.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:44:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PromotionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\PromotionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PromotionsController.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\PromotionsController.cs",
+              "RelativeToolTip": "Controllers\\PromotionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:46:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PromotionService.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\PromotionService.cs",
+              "RelativeDocumentMoniker": "Services\\PromotionService.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Services\\PromotionService.cs",
+              "RelativeToolTip": "Services\\PromotionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:50:53.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TfDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\TfDbContext.cs",
+              "RelativeDocumentMoniker": "BaseDados\\TfDbContext.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\TfDbContext.cs",
+              "RelativeToolTip": "BaseDados\\TfDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TbStockLog.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbStockLog.cs",
+              "RelativeDocumentMoniker": "BaseDados\\Models\\TbStockLog.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbStockLog.cs",
+              "RelativeToolTip": "BaseDados\\Models\\TbStockLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:54.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TbSale.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbSale.cs",
+              "RelativeDocumentMoniker": "BaseDados\\Models\\TbSale.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbSale.cs",
+              "RelativeToolTip": "BaseDados\\Models\\TbSale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TbPromotion.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbPromotion.cs",
+              "RelativeDocumentMoniker": "BaseDados\\Models\\TbPromotion.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\BaseDados\\Models\\TbPromotion.cs",
+              "RelativeToolTip": "BaseDados\\Models\\TbPromotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:53:49.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StockLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\StockLogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StockLogsController.cs",
+              "ToolTip": "C:\\Users\\Sr.Orlandi\\Desktop\\Trabalho Final\\Controllers\\StockLogsController.cs",
+              "RelativeToolTip": "Controllers\\StockLogsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:45:01.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
