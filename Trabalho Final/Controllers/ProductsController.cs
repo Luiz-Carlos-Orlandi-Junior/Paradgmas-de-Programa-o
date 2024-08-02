@@ -6,7 +6,7 @@ using Trabalho_Final.Services.Exceptions;
 using Trabalho_Final.BaseDados.Models2;
 
 
-namespace ApiWebDB.Controllers
+namespace Trabalho_Final.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
