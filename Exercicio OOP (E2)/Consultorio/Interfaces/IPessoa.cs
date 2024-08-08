@@ -6,9 +6,10 @@ namespace Consultorio.Interfaces
 {
     public interface IPessoa 
     {
+ 
 
-        string Nome { get; set; }
-        string CPF { get; set; }
-        string Sexo { get; set; }
+        public string Nome { get; set; }
+        public string CPF { get; set; }
+        public string Sexo { get; set; }
     }
 }

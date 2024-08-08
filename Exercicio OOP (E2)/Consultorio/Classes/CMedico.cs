@@ -12,9 +12,6 @@ namespace Consultorio.Classes
         private string _sexo;
         private string _cpf;
 
-
-
-
         public string Nome
         {
             get { return _nome; }

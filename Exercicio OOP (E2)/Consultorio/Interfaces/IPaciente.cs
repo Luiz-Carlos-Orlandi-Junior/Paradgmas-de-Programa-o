@@ -5,7 +5,7 @@ namespace Consultorio.Interfaces
 {
     public interface IPaciente : IPessoa
     {
-        string NumConvenio { get; set; }
+        public string NumConvenio { get; set; }
         
     }
 }

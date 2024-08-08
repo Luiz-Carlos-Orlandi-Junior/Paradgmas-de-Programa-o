@@ -9,17 +9,16 @@ using Consultorio.Classes;
     Medico.Licensa = "lic123";
     Medico.Sexo = "Masculino";
 
-var Enfermeira = new CEnfermeira
-{
-    Nome = "Alessandra",
-    Especializacao = "Emergencia",
-    Sexo = "Feminino"
-};
+    var Enfermeira = new CEnfermeira();
+    Enfermeira.Nome = "Alessandra";
+    Enfermeira.Especializacao = "Emergencia";
+    Enfermeira.Sexo = "Feminino";
 
-var Paciente = new CPaciente();
+   var Paciente = new CPaciente();
    Paciente.Nome = "Felipe";
-Paciente.Sexo = "Masculino";
-Paciente.CPF = "452.547.474.74";
+   Paciente.Sexo = "Masculino";
+   Paciente.CPF = "452.547.474.74";
+   Paciente.NumConvenio = "12345c";
 
 
     

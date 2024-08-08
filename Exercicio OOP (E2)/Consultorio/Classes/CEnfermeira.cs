@@ -12,12 +12,7 @@ namespace Consultorio.Classes
         private string _cpf;
         private string _sexo;
         private string _especializacao;
-
-        string IPessoa.Nome
-        {
-            get { return _nome; }
-            set { _nome = value; }
-        }
+      
         public string Especializacao
         {
             get { return _especializacao;}
@@ -35,19 +30,19 @@ namespace Consultorio.Classes
             set { _sexo = value; }
         }
 
-        string Nome
+        public string Nome
         {
             get { return _nome; }
             set { _nome = value; }
         }
 
-        string RegistroEnfermeira
+        public string RegistroEnfermeira
         {
             get { return _registroEnfermeira; }
             set { _registroEnfermeira = value;}
 
         }
-        string Setor
+        public string Setor
         {
             get { return _setor; }
             set { _setor = value;}

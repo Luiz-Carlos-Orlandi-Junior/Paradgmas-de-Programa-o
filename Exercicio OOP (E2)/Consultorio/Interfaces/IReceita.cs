@@ -4,12 +4,12 @@ namespace Consultorio.Interfaces
 {
     public interface IReceita
     {
-        IMedico Medico { get; set; }
-        IPaciente Paciente { get; set; }
-        string Medicamento { get; set; }
-        string Dosagem { get; set; }
-        DateTime Data { get; set; }
+        public IMedico Medico { get; set; }
+        public IPaciente Paciente { get; set; }
+        public string Medicamento { get; set; }
+        public string Dosagem { get; set; }
+        public string Data { get; set; }
 
-        void MostrarReceita();
+        public void MostrarReceita();
     }
 }

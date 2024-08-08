@@ -10,7 +10,6 @@ namespace Consultorio.Interfaces
             string Setor { get; set; }
            
             void AdministrarMedicacao();
-            void Indentificar();
         }
    
 }

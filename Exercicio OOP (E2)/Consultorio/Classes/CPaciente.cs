@@ -28,7 +28,7 @@ namespace Consultorio.Classes
             set { _sexo = value; }
         }
     
-        string NumConvenio
+        public string NumConvenio
         {
             get { return _numConvenio; }
             set { _numConvenio = value;}
