@@ -1,0 +1,15 @@
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.AssemblyInfoInputs.cache
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.AssemblyInfo.cs
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.sourcelink.json
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.exe
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.deps.json
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.runtimeconfig.json
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.dll
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.pdb
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.dll
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\refint\Criptografia.dll
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.pdb
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.genruntimeconfig.cache
+C:\Users\Sr.Orlandi\Documents\GitHub\Paradgmas-de-Programa-o\Exercicio OOP (E2)\Criptografia\Criptografia\obj\Debug\net8.0\ref\Criptografia.dll
