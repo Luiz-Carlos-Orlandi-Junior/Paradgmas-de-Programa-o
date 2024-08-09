@@ -11,15 +11,7 @@ namespace Consultorio.Classes
         private string _licenca;
         private string _sexo;
         private string _cpf;
-        private IPaciente _paciente;
-
-        public IPaciente Paciente
-        {
-            get { return _paciente; }
-            set { _paciente = value; }
-        }
-
-
+        
         public string Nome
         {
             get { return _nome; }
