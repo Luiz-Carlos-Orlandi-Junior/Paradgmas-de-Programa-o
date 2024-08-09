@@ -14,6 +14,7 @@ namespace Consultorio.Classes
         private string _cpf;
         private string _sexo;
 
+
         public string Nome
         {
             get { return _nome; }
@@ -30,9 +31,13 @@ namespace Consultorio.Classes
             set { _sexo = value; }
         }
 
+
+
         public void MarcarConsulta()
         {
-            Console.WriteLine($"Dr {Nome}, Sexo: {Sexo}");
+    
         }
+
+
     }
 }

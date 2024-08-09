@@ -8,18 +8,6 @@ namespace Consultorio.Classes
         private string _medicamento;
         private string _dosagem;
         private string _data;
-        private IMedico _medico;
-        private IPaciente _paciente;
-        public IMedico Medico
-        {
-            get { return _medico; }
-            set { _medico = value; }
-        }
-        public IPaciente Paciente
-        {
-            get { return _paciente; }
-            set { _paciente = value; }
-        }
 
         public string Medicamento
         {
@@ -38,20 +26,10 @@ namespace Consultorio.Classes
             set { _data = value; }
         }
 
-        // Construtor da classe Receita
-        public CReceita(IMedico medico, IPaciente paciente, string medicamento, string dosagem)
-        {
-            Medico = medico;
-            Paciente = paciente;
-            Medicamento = medicamento;
-            Dosagem = dosagem;
-    
-        }
-
         // Implementação do método MostrarReceita
         public void MostrarReceita()
         {
-            Console.WriteLine($"Receita:\nMédico: {Medico.Nome}\nPaciente: {Paciente.Nome}\nMedicamento: {Medicamento}\nDosagem: {Dosagem}\nData: {Data}");
+
         }
     }
 }

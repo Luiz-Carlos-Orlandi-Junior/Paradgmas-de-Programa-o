@@ -12,6 +12,13 @@ namespace Consultorio.Classes
         private string _cpf;
         private string _sexo;
         private string _especializacao;
+        private IMedico _medico;
+
+        public IMedico Medico
+        {
+            get { return _medico; }
+            set { _medico = value; }
+        }
       
         public string Especializacao
         {
@@ -49,7 +56,7 @@ namespace Consultorio.Classes
         }
         public void AdministrarMedicacao()
         {
-            Console.WriteLine($"{Nome} está administrando medicação.");
+            
         }
     }
 }

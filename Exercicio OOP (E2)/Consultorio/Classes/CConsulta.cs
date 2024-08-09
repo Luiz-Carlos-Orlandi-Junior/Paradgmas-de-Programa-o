@@ -12,8 +12,6 @@ namespace Consultorio.Classes
         private string _finalidade;
         private string _horario;
         private string _local;
-        private IPaciente _paciente;
-        private IMedico _medico;
 
         public string Finalidade
         {
@@ -30,18 +28,6 @@ namespace Consultorio.Classes
         {
             get { return _local; }
             set { _local = value; }
-        }
-
-        public IPaciente Paciente
-        {
-            get { return _paciente; }
-            set { _paciente = value; }
-        }
-
-        public IMedico Medico
-        {
-            get { return _medico; }
-            set { _medico = value; }
         }
     }
 }

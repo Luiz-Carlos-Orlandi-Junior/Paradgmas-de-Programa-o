@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Consultorio.Interfaces
 {
     public interface ISecretaria : IPessoa
-    {
+    { 
         public void MarcarConsulta();
     }
 }

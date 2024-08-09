@@ -11,6 +11,14 @@ namespace Consultorio.Classes
         private string _licenca;
         private string _sexo;
         private string _cpf;
+        private IPaciente _paciente;
+
+        public IPaciente Paciente
+        {
+            get { return _paciente; }
+            set { _paciente = value; }
+        }
+
 
         public string Nome
         {
@@ -43,11 +51,11 @@ namespace Consultorio.Classes
 
         public void Assinar()
         {
-            Console.WriteLine("Assinado");
+            Console.WriteLine("Receita Assinada");
         }
-        public virtual void Diagnosticar()
+        public void Diagnosticar()
         {
-            Console.WriteLine($"Dr {Nome}, Sexo: {Sexo}, Especialização: {Especializacao}, Numero da licensa: {Licensa}");
+           
         }
     }
 }
